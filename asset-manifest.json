@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.158b6f89.css",
+    "main.js": "/static/js/main.67379b75.js",
+    "static/media/Dog_Profile_Photo2.jpg": "/static/media/Dog_Profile_Photo2.6501186e8913d8dbe05d.jpg",
+    "static/media/Echo_Homes.png": "/static/media/Echo_Homes.078303fa377dcbc59ccf.png",
+    "static/media/Blackjack.png": "/static/media/Blackjack.ff82e96c82758df988a8.png",
+    "static/media/Chess_Screenshot.png": "/static/media/Chess_Screenshot.2a7c7a1e56ecee5870d7.png",
+    "index.html": "/index.html",
+    "main.158b6f89.css.map": "/static/css/main.158b6f89.css.map",
+    "main.67379b75.js.map": "/static/js/main.67379b75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.158b6f89.css",
+    "static/js/main.67379b75.js"
+  ]
+}
